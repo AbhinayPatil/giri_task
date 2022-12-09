@@ -1,16 +1,4 @@
 # giri_task
+Task for creating a music player screen with pause and play functionality and slider.
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src = "https://user-images.githubusercontent.com/89311783/206723306-ef307be0-a583-4e1b-8d6c-35d82be6f94c.jpg" height=600>
